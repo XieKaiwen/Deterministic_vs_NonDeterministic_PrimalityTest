@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prime_Finding", "Prime_Finding.vcxproj", "{E61AA38E-8BB7-47D1-A618-4CCE5A441010}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NonDeterministicPrimeFinding_AccuracyTest", "..\NonDeterministicPrimeFinding_AccuracyTest\NonDeterministicPrimeFinding_AccuracyTest.vcxproj", "{DB28D865-6734-4B96-AD82-468544D91652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E61AA38E-8BB7-47D1-A618-4CCE5A441010}.Debug|x64.ActiveCfg = Debug|x64
+		{E61AA38E-8BB7-47D1-A618-4CCE5A441010}.Debug|x64.Build.0 = Debug|x64
+		{E61AA38E-8BB7-47D1-A618-4CCE5A441010}.Debug|x86.ActiveCfg = Debug|Win32
+		{E61AA38E-8BB7-47D1-A618-4CCE5A441010}.Debug|x86.Build.0 = Debug|Win32
+		{E61AA38E-8BB7-47D1-A618-4CCE5A441010}.Release|x64.ActiveCfg = Release|x64
+		{E61AA38E-8BB7-47D1-A618-4CCE5A441010}.Release|x64.Build.0 = Release|x64
+		{E61AA38E-8BB7-47D1-A618-4CCE5A441010}.Release|x86.ActiveCfg = Release|Win32
+		{E61AA38E-8BB7-47D1-A618-4CCE5A441010}.Release|x86.Build.0 = Release|Win32
+		{DB28D865-6734-4B96-AD82-468544D91652}.Debug|x64.ActiveCfg = Debug|x64
+		{DB28D865-6734-4B96-AD82-468544D91652}.Debug|x64.Build.0 = Debug|x64
+		{DB28D865-6734-4B96-AD82-468544D91652}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB28D865-6734-4B96-AD82-468544D91652}.Debug|x86.Build.0 = Debug|Win32
+		{DB28D865-6734-4B96-AD82-468544D91652}.Release|x64.ActiveCfg = Release|x64
+		{DB28D865-6734-4B96-AD82-468544D91652}.Release|x64.Build.0 = Release|x64
+		{DB28D865-6734-4B96-AD82-468544D91652}.Release|x86.ActiveCfg = Release|Win32
+		{DB28D865-6734-4B96-AD82-468544D91652}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F38B93CF-6BFF-422C-B474-D5D673AB15D6}
+	EndGlobalSection
+EndGlobal
